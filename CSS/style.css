@@ -1,0 +1,31 @@
+.container {
+    margin: 0 20rem;
+    max-width: 70rem;
+    text-align: center;
+}
+
+.verde {
+   border: 4px solid green;
+}
+
+.rojo {
+    border: 4px solid red;
+}
+
+
+/* .espacio {
+    padding: .5rem 3rem ;
+} */
+
+h1, h2, h3 {
+    font-family: 'Playfair Display', serif;
+}
+
+.cambio-heigth {
+    height: 8rem;
+}
+@media (min-width: 768px) {
+    .ancho {
+        min-width: 425px;
+    } 
+}
